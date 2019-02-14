@@ -4,6 +4,8 @@ description: tabler.github.io - a responsive, flat and full featured admin templ
 source: src
 host: 0.0.0.0
 
+encoding: utf-8
+
 plugins:
   - jekyll-tidy
   - jekyll-toc
